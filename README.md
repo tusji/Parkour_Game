@@ -1,5 +1,8 @@
 # Parkour_Game 2.0
 ![](https://i.imgur.com/OMfUQzt.jpg)
+## 說明
+   為練習C++寫的小遊戲，為使畫面可以順暢使用muti thread 以及Lamport麵包店算法處理同步問題
+
 ## 軟體功能
 
    就只是跑庫地圖，好好享受吧
